@@ -1,5 +1,5 @@
 {
-  "name": "claude-skill-wp-php8-migration",
+  "name": "wp-php8-migration-claude-skill",
   "version": "1.0.0",
   "description": "PHP 8.x migration skill for WordPress covering named arguments, union types, match expressions, enums, readonly properties, constructor promotion, and backward compatibility strategies.",
   "skills": [

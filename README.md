@@ -1,4 +1,4 @@
-# claude-skill-wp-php8-migration
+# wp-php8-migration-claude-skill
 
 PHP 8.x migration skill for WordPress covering named arguments, union types, match expressions, enums, readonly properties, constructor promotion, and backward compatibility strategies.
 
@@ -7,7 +7,7 @@ PHP 8.x migration skill for WordPress covering named arguments, union types, mat
 ### Claude Code Plugin Marketplace
 
 ```bash
-/plugin install https://github.com/xonack/claude-skill-wp-php8-migration
+/plugin install https://github.com/xonack/wp-php8-migration-claude-skill
 ```
 
 ### Manual Installation
@@ -30,7 +30,7 @@ Once installed, the skill activates automatically when working on relevant WordP
 ## Structure
 
 ```
-claude-skill-wp-php8-migration/
+wp-php8-migration-claude-skill/
 ├── README.md
 ├── LICENSE
 ├── .claude-plugin/
